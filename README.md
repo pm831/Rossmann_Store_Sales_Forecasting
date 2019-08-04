@@ -1,3 +1,4 @@
+![rossman](https://user-images.githubusercontent.com/19572673/62430687-d2b39680-b6ed-11e9-83e0-ae936209d6fe.png)
 # Rossman Stores Sales Forecasting
 
 ## Abstract:
