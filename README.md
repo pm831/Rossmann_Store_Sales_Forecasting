@@ -15,10 +15,10 @@ The Rossmann family owns 60%, and the Hong Kong-based A.S. Watson Group 40% of t
 ## Use Case:
 ### Predicting their daily sales for up to six weeks in advance.
 ## Initial Dataset:
-## train.csv - historical data including Sales
-## test.csv - historical data excluding Sales
-## sample_submission.csv - a sample submission file in the correct format
-## store.csv - supplemental information about the stores
+##### train.csv - historical data including Sales
+##### test.csv - historical data excluding Sales
+##### sample_submission.csv - a sample submission file in the correct format
+##### store.csv - supplemental information about the stores
 ## Software:
 ### Python
 
