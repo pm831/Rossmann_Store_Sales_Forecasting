@@ -51,3 +51,7 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 ##### Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 ##### PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. ##### "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
+### Quick Data Visualization
+
+![Rossman_Stores_Sales_Forecasting](https://user-images.githubusercontent.com/19572673/80853482-58be2880-8bff-11ea-85ed-9776913c6255.PNG)
+
