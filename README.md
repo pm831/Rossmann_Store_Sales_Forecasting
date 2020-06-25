@@ -83,6 +83,7 @@ https://public.tableau.com/profile/pujan.malavia#!/
 ![Rossman_Stores_Sales_Forecasting](https://user-images.githubusercontent.com/19572673/80853482-58be2880-8bff-11ea-85ed-9776913c6255.PNG)
 
 Python (Jupyter Notebook) Visualization:
+https://github.com/pm831/Rossmann_Store_Sales_Forecasting/blob/master/Rossman%20Sales%20Forecasting.ipynb
 
 Sales of Store 1 from 2013-01 to 2015-09
 
