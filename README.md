@@ -137,14 +137,18 @@ Store 13 Autocorrelation Plot
 
 ![output_53_1](https://user-images.githubusercontent.com/19572673/85776163-6cad7480-b6ee-11ea-8a5d-85a63a3ded4e.png)
 
+ARIMA Model (Observed vs. One-Step Ahead Forecast) - Store 2
 
 ![output_61_1](https://user-images.githubusercontent.com/19572673/85776164-6cad7480-b6ee-11ea-9bcb-aa3f0aa7e910.png)
 
+ARIMA Model (Observed vs. One-Step Ahead Forecast) - Store 85
 
 ![output_62_1](https://user-images.githubusercontent.com/19572673/85776166-6d460b00-b6ee-11ea-9dd9-14be70c984d0.png)
 
+ARIMA Model (Observed vs. One-Step Ahead Forecast) - Store 1
 
 ![output_63_0](https://user-images.githubusercontent.com/19572673/85776167-6d460b00-b6ee-11ea-8566-147042a1165d.png)
 
+XGBoost Model
 
 ![output_75_1](https://user-images.githubusercontent.com/19572673/85776168-6d460b00-b6ee-11ea-909b-7e8e39e0c5a3.png)
