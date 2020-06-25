@@ -83,7 +83,7 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 
 Python (Jupyter Notebook) Viz
 
-Sales of Store 1 from 2013-1 to 2015-9
+Sales of Store 1 from 2013-01 to 2015-09
 
 ![output_20_1](https://user-images.githubusercontent.com/19572673/85776145-6a4b1a80-b6ee-11ea-961b-c55918784bdf.png)
 
@@ -97,36 +97,42 @@ Heatmap - Correlations between each Variable
 
 ![output_33_1](https://user-images.githubusercontent.com/19572673/85776149-6ae3b100-b6ee-11ea-943c-a610cdca4403.png)
 
-Store 2 Sales from Jan 2013 to July 2015
+Store 2, 85, 1, 13 Sales (Respectively) from Jan 2013 to July 2015
 
 ![output_39_1](https://user-images.githubusercontent.com/19572673/85776150-6b7c4780-b6ee-11ea-8065-71fc2ef72e21.png)
 
-Store 85 Sales from Jan 2013 to July 2015
+Store 2 Original, Rolling Mean, Rolling Std Time Series Plot
 
 ![output_41_0](https://user-images.githubusercontent.com/19572673/85776151-6b7c4780-b6ee-11ea-9d11-089b59a858a3.png)
 
-Store 1 Sales from Jan 2013 to July 2015
+Store 2 Trend, Seasonality, & Residuals Plot
 
 ![output_45_1](https://user-images.githubusercontent.com/19572673/85776153-6b7c4780-b6ee-11ea-9d0a-bd8d20d6a3f1.png)
 
-Store 13 Sales from Jan 2013 to July 2015
+Store 85 Trend, Seasonality, & Residuals Plot
 
 ![output_46_1](https://user-images.githubusercontent.com/19572673/85776154-6c14de00-b6ee-11ea-90c9-356f9dc41673.png)
 
+Store 1 Trend, Seasonality, & Residuals Plot
 
 ![output_47_1](https://user-images.githubusercontent.com/19572673/85776156-6c14de00-b6ee-11ea-86a9-658f5cbe8db4.png)
 
+Store 13 Trend, Seasonality, & Residuals Plot
 
 ![output_48_1](https://user-images.githubusercontent.com/19572673/85776157-6c14de00-b6ee-11ea-958a-d7b6f9208132.png)
+
 
 
 ![output_50_1](https://user-images.githubusercontent.com/19572673/85776159-6c14de00-b6ee-11ea-95bd-cfd496833929.png)
 
 
+
 ![output_51_1](https://user-images.githubusercontent.com/19572673/85776160-6cad7480-b6ee-11ea-8805-7ad43c2d6979.png)
 
 
+
 ![output_52_1](https://user-images.githubusercontent.com/19572673/85776161-6cad7480-b6ee-11ea-92cf-dffc1d141ac0.png)
+
 
 
 ![output_53_1](https://user-images.githubusercontent.com/19572673/85776163-6cad7480-b6ee-11ea-8a5d-85a63a3ded4e.png)
