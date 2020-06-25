@@ -77,11 +77,12 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 
 ### Quick Data Visualization
 
-### Tableau Viz
+Tableau Visualization:
+https://public.tableau.com/profile/pujan.malavia#!/
 
 ![Rossman_Stores_Sales_Forecasting](https://user-images.githubusercontent.com/19572673/80853482-58be2880-8bff-11ea-85ed-9776913c6255.PNG)
 
-Python (Jupyter Notebook) Viz
+Python (Jupyter Notebook) Visualization:
 
 Sales of Store 1 from 2013-01 to 2015-09
 
