@@ -121,19 +121,19 @@ Store 13 Trend, Seasonality, & Residuals Plot
 
 ![output_48_1](https://user-images.githubusercontent.com/19572673/85776157-6c14de00-b6ee-11ea-958a-d7b6f9208132.png)
 
-
+Store 2 Autocorrelation Plot
 
 ![output_50_1](https://user-images.githubusercontent.com/19572673/85776159-6c14de00-b6ee-11ea-95bd-cfd496833929.png)
 
-
+Store 85 Autocorrelation Plot
 
 ![output_51_1](https://user-images.githubusercontent.com/19572673/85776160-6cad7480-b6ee-11ea-8805-7ad43c2d6979.png)
 
-
+Store 1 Autocorrelation Plot
 
 ![output_52_1](https://user-images.githubusercontent.com/19572673/85776161-6cad7480-b6ee-11ea-92cf-dffc1d141ac0.png)
 
-
+Store 13 Autocorrelation Plot
 
 ![output_53_1](https://user-images.githubusercontent.com/19572673/85776163-6cad7480-b6ee-11ea-8a5d-85a63a3ded4e.png)
 
