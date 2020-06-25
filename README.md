@@ -77,7 +77,13 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 
 ### Quick Data Visualization
 
+### Tableau Viz
+
 ![Rossman_Stores_Sales_Forecasting](https://user-images.githubusercontent.com/19572673/80853482-58be2880-8bff-11ea-85ed-9776913c6255.PNG)
+
+Python (Jupyter Notebook) Viz
+
+Sales of Store 1 from 2013-1 to 2015-9
 
 ![output_20_1](https://user-images.githubusercontent.com/19572673/85776145-6a4b1a80-b6ee-11ea-961b-c55918784bdf.png)
 
@@ -87,18 +93,23 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 
 ![output_21_2](https://user-images.githubusercontent.com/19572673/85776148-6ae3b100-b6ee-11ea-8e73-06cd43d81377.png)
 
+Heatmap - Correlations between each Variable
 
 ![output_33_1](https://user-images.githubusercontent.com/19572673/85776149-6ae3b100-b6ee-11ea-943c-a610cdca4403.png)
 
+Store 2 Sales from Jan 2013 to July 2015
 
 ![output_39_1](https://user-images.githubusercontent.com/19572673/85776150-6b7c4780-b6ee-11ea-8065-71fc2ef72e21.png)
 
+Store 85 Sales from Jan 2013 to July 2015
 
 ![output_41_0](https://user-images.githubusercontent.com/19572673/85776151-6b7c4780-b6ee-11ea-9d11-089b59a858a3.png)
 
+Store 1 Sales from Jan 2013 to July 2015
 
 ![output_45_1](https://user-images.githubusercontent.com/19572673/85776153-6b7c4780-b6ee-11ea-9d0a-bd8d20d6a3f1.png)
 
+Store 13 Sales from Jan 2013 to July 2015
 
 ![output_46_1](https://user-images.githubusercontent.com/19572673/85776154-6c14de00-b6ee-11ea-90c9-356f9dc41673.png)
 
