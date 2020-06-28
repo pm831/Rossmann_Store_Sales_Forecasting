@@ -154,3 +154,13 @@ ARIMA Model (Observed vs. One-Step Ahead Forecast) - Store 1
 XGBoost Model
 
 ![output_75_1](https://user-images.githubusercontent.com/19572673/85776168-6d460b00-b6ee-11ea-909b-7e8e39e0c5a3.png)
+
+### Communication of Results to Business Partner:
+To a business partner, I would explain that the xgBoost (all else equal) is an efficient and easy to use algorithm which delivers high performance and accuracy as compared to other algorithms.
+
+### Future Work:
+Continue to do hyperparameter tuning of the model and creating new features/removing old features to help increase the prediction accuracy of the model
+
+Try other types of models to see if the accuracy rate improves
+
+More data visualization/patterns within the dataset (external sources) that can lead to more insights and decision-making from a business perspective
